@@ -55,7 +55,7 @@ This will be an application of what you've learned for module 2.
 
 ## Exercise
 
-Deploy all the smart contracts discussed in chapters 1 and 2. Files are already provided in this repository.
+Deploy all the smart contracts discussed in chapters 1 and 2. Files and source code are already provided in this repository.
 
 As for chapter 3, deploy one token contract of either fungible or non-fungible with your chosen ERC standard. Also here, you're on your own in creating the contract. Good luck!
 
