@@ -59,9 +59,13 @@ Deploy all the smart contracts discussed in chapters 1 and 2. Files and source c
 
 As for chapter 3, deploy one token contract of either fungible or non-fungible with your chosen ERC standard. Also here, you're on your own in creating the contract. Good luck!
 
-All the deployed contracts must be verified in Etherscan.
+All the deployed contracts **must be verified** in Goerli Etherscan. And it's up to you on what IDE you'll use in deploying these contracts.
 
-And as you deploy each smart contract, make sure to update [Deployed.md](Deployed.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
+**Note:** And as you deploy each smart contract, make sure to update [Deployed.md](Deployed.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
+
+So technically, you will only modify these files:
+- `15_MyTokenContract.sol`
+- `Deployed.md`
 
 ## Criteria
 This exercise will be graded with the following criterias:
