@@ -15,7 +15,7 @@
 - [12_ImportStatements_Import.sol](https://goerli.etherscan.io/)
 - [13_ExternalContracts.sol](https://goerli.etherscan.io/)
 - [14_SolidityLibraries.sol](https://goerli.etherscan.io/)
-- [15_ERC20.sol](https://goerli.etherscan.io/)
+- [15_MyTokenContract.sol](https://goerli.etherscan.io/)
 
 <!--- Just append the specific contract address beside each link. Example: https://goerli.etherscan.io/0xb8080b8b6baffadb5dc50f9d31dc126f2b99c7aa
 --->
