@@ -61,7 +61,7 @@ As for chapter 3, deploy one token contract of either fungible or non-fungible w
 
 All the deployed contracts must be verified in Etherscan.
 
-And as you deploy each smart contract, make sure to update [Deploy.md](Deploy.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
+And as you deploy each smart contract, make sure to update [Deploy.md](Deployed.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
 
 ## Criteria
 This exercise will be graded with the following criterias:
