@@ -61,11 +61,11 @@ As for chapter 3, deploy one token contract of either fungible or non-fungible w
 
 All the deployed contracts **must be verified** in Goerli Etherscan. And it's up to you on what IDE you'll use in deploying these contracts.
 
-**Note:** And as you deploy each smart contract, make sure to update [Deployed.md](Deployed.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
+**Note:** As you deploy each smart contracts, make sure to update [Deployed.md](Deployed.md) where you'll be putting all the links of your deployed contracts (_see  markdown file in your text editor_).
 
 So technically, you will only modify these files:
-- `15_MyTokenContract.sol`
-- `Deployed.md`
+- [15_MyTokenContract.sol](15_MyTokenContract.sol)
+- [Deployed.md](Deployed.md)
 
 ## Criteria
 This exercise will be graded with the following criterias:
